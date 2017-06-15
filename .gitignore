@@ -1,2 +1,5 @@
 # MyFolder
 /TEMP/*
+
+# LibreOffice Write temp file while the file is opened for edit
+*.odt#
