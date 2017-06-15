@@ -1,5 +1,9 @@
+
 this file was created in the "master" branch
+1M. this file was created in the "master" branch
+2D. now we are on the "develop" branch and making this modification and add+commit+push
 
+3M. this modification is from "master" save+add+commit+push :-)
+3D. this is from "develop"
+4M. make another modif from "master" 
 
-3. this modification is from "master" save+add+commit+push :-)
-4. make another modif from "master" 
